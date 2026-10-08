@@ -1,0 +1,18 @@
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto_final.Form1.resources
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto_final.Properties.Resources.resources
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto final.csproj.GenerateResource.cache
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto final.AssemblyInfoInputs.cache
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto final.AssemblyInfo.cs
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\frami\source\repos\proyecto final\bin\Debug\net10.0-windows\proyecto final.exe
+C:\Users\frami\source\repos\proyecto final\bin\Debug\net10.0-windows\proyecto final.deps.json
+C:\Users\frami\source\repos\proyecto final\bin\Debug\net10.0-windows\proyecto final.runtimeconfig.json
+C:\Users\frami\source\repos\proyecto final\bin\Debug\net10.0-windows\proyecto final.dll
+C:\Users\frami\source\repos\proyecto final\bin\Debug\net10.0-windows\proyecto final.pdb
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto final.dll
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\refint\proyecto final.dll
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto final.pdb
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto final.genruntimeconfig.cache
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\ref\proyecto final.dll
+C:\Users\frami\source\repos\proyecto final\obj\Debug\net10.0-windows\proyecto.6830A12C.Up2Date
